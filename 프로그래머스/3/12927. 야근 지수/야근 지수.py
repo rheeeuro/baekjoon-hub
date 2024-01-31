@@ -33,6 +33,7 @@ def solution(n, works):
                 n -= diff
         idx += 1
             
+            
     
         
     score = 0
